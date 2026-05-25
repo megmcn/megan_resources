@@ -3,6 +3,7 @@
 ### code design tools + reference 
 > [markdown syntax guide](https://daringfireball.net/projects/markdown/syntax) 
 > [ggplot2 color reference](https://sape.inf.usi.ch/quick-reference/ggplot2/colour)
+> [rstudio themes](https://github.com/max-alletsee/rstudio-themes)
 
 ### scripting + methodology 
 > [gprofiler2- functional enrichment analysis, scripting](https://cran.r-project.org/web/packages/gprofiler2/vignettes/gprofiler2.html)
