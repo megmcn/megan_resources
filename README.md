@@ -1,2 +1,3 @@
 # megan_resources
-miscellaneous things megan is making
+resources megan uses to code! :-)
+
