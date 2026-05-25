@@ -7,7 +7,10 @@
 
 ### scripting + methodology 
 > [gprofiler2- functional enrichment analysis, scripting](https://cran.r-project.org/web/packages/gprofiler2/vignettes/gprofiler2.html)
-> 
+> [gprofiler- website interface version](https://biit.cs.ut.ee/gprofiler/gost)
+> [chEA3- transcription binding enrichment- website interface version](https://maayanlab.cloud/chea3/)
+> [bioconductor documentation](https://www.bioconductor.org/install/)
+> [GO term ancestry database](https://www.ebi.ac.uk/QuickGO/slimming)
 
 ### brain information + reference
 > [university of washington- "brain information" database](http://braininfo.rprc.washington.edu/)
